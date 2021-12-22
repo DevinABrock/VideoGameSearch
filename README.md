@@ -40,14 +40,13 @@ Stephen Doty
 
 - Primary team Role: Javascript, API calls, and assisted with CSS animations. 
 
+James Ivy
+
+- Primary team Role: HTML, and CSS styling.
+
 Devin Brock
 
 - Primary team Role: HTML CSS styling and README.
-
-
-James Ivy
-
-- Primary team Role: HTML, and CSS styling. 
 
 
 # Tools used for this project:
