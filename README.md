@@ -15,21 +15,21 @@ VGS is a group project where we created a search based web application using an 
 API: RAWG: https://rawg.io/apidocs
 
 # Have A Look:
- ## The Home Page
+ ### The Home Page
  Search for any game or view catagories.
- <br/>
+ 
  ![Alt text](images/Homepage_Screen_shot_1.png)
 <br/>
 
-## Viewing Information
+### Viewing Information
 Searches return screenshots, a description of the game, the ESRB rating, a list of avalible platforms and reviewer score.
-<br/>
+
 ![Alt text](images/Game_Page_Screen_Shot_2.png)
 <br>
 
-## Browsing
+### Browsing
 Users can scroll through a list of games.
-<br/>
+
 ![Alt text](images/Free_To_Play_Screen_Shot_2.png)
 <br/>
 
